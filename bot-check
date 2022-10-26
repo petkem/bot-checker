@@ -13,36 +13,17 @@ Rdp = {
     {nordp = 4, botname = "asepco39", Status = "Nonaktif"},
     {nordp = 5, botname = "asepco12", Status = "Nonaktif"},
     {nordp = 5, botname = "asepco40", Status = "Nonaktif"},
-    {nordp = 5, botname = "asepco41", Status = "Nonaktif"},
-    {nordp = 6, botname = "", Status = "Nonaktif"},
-    {nordp = 6, botname = "", Status = "Nonaktif"},
-    {nordp = 6, botname = "", Status = "Nonaktif"},
-    {nordp = 7, botname = "", Status = "Nonaktif"},
-    {nordp = 7, botname = "", Status = "Nonaktif"},
-    {nordp = 7, botname = "", Status = "Nonaktif"},
-    {nordp = 8, botname = "", Status = "Nonaktif"},
-    {nordp = 8, botname = "", Status = "Nonaktif"},
-    {nordp = 8, botname = "", Status = "Nonaktif"},
-    {nordp = 9, botname = "", Status = "Nonaktif"},
-    {nordp = 9, botname = "", Status = "Nonaktif"},
-    {nordp = 9, botname = "", Status = "Nonaktif"},
-    {nordp = 10, botname = "", Status = "Nonaktif"},
-    {nordp = 10, botname = "", Status = "Nonaktif"},
-    {nordp = 10, botname = "", Status = "Nonaktif"}
+    {nordp = 5, botname = "asepco41", Status = "Nonaktif"}
+    
 }
 
 ShowIP = true
 ip_add = {
     "91.143.90.14",
     "91.143.90.138",
-    "91.143.90.139",
     "91.143.90.163",
     "91.143.90.164",
-    "91.143.90.165",
-    "91.143.90.166",
-    "91.143.90.167",
-    "91.143.90.168",
-    "91.143.90.169",
+    "91.143.90.165"
 }
 
 hookURL = "https://discord.com/api/webhooks/1034888359555911760/wd-mw2A1Exq55NE6VORAQkL9_gbPeZWS-Rc1BntkgFzgGTPoxIbJLKJV2JT-2hOUWA_H"
