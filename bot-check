@@ -1,30 +1,51 @@
 Rdp = {
-    {nordp = 1, botname = "Bot1", Status = "Nonaktif"},
-    {nordp = 1, botname = "Bot1", Status = "Nonaktif"},
-    {nordp = 2, botname = "Bot2", Status = "Nonaktif"},
-    {nordp = 2, botname = "Bot2", Status = "Nonaktif"},
-    {nordp = 3, botname = "Bot3", Status = "Nonaktif"},
-    {nordp = 3, botname = "Bot3", Status = "Nonaktif"},
-    {nordp = 4, botname = "Bot4", Status = "Nonaktif"},
-    {nordp = 4, botname = "Bot4", Status = "Nonaktif"},
-    {nordp = 5, botname = "Bot5", Status = "Nonaktif"},
-    {nordp = 5, botname = "Bot5", Status = "Nonaktif"},
-    {nordp = 6, botname = "Bot6", Status = "Nonaktif"},
-    {nordp = 6, botname = "Bot6", Status = "Nonaktif"}
+    {nordp = 1, botname = "asepco19", Status = "Nonaktif"},
+    {nordp = 1, botname = "asepco20", Status = "Nonaktif"},
+    {nordp = 1, botname = "asepco21", Status = "Nonaktif"},
+    {nordp = 2, botname = "asepco23", Status = "Nonaktif"},
+    {nordp = 2, botname = "asepco24", Status = "Nonaktif"},
+    {nordp = 2, botname = "asepco27", Status = "Nonaktif"},
+    {nordp = 3, botname = "asepco30", Status = "Nonaktif"},
+    {nordp = 3, botname = "asepco33", Status = "Nonaktif"},
+    {nordp = 3, botname = "asepco36", Status = "Nonaktif"},
+    {nordp = 4, botname = "asepco37", Status = "Nonaktif"},
+    {nordp = 4, botname = "asepco38", Status = "Nonaktif"},
+    {nordp = 4, botname = "asepco39", Status = "Nonaktif"},
+    {nordp = 5, botname = "asepco12", Status = "Nonaktif"},
+    {nordp = 5, botname = "asepco40", Status = "Nonaktif"},
+    {nordp = 5, botname = "asepco41", Status = "Nonaktif"},
+    {nordp = 6, botname = "", Status = "Nonaktif"},
+    {nordp = 6, botname = "", Status = "Nonaktif"},
+    {nordp = 6, botname = "", Status = "Nonaktif"},
+    {nordp = 7, botname = "", Status = "Nonaktif"},
+    {nordp = 7, botname = "", Status = "Nonaktif"},
+    {nordp = 7, botname = "", Status = "Nonaktif"},
+    {nordp = 8, botname = "", Status = "Nonaktif"},
+    {nordp = 8, botname = "", Status = "Nonaktif"},
+    {nordp = 8, botname = "", Status = "Nonaktif"},
+    {nordp = 9, botname = "", Status = "Nonaktif"},
+    {nordp = 9, botname = "", Status = "Nonaktif"},
+    {nordp = 9, botname = "", Status = "Nonaktif"},
+    {nordp = 10, botname = "", Status = "Nonaktif"},
+    {nordp = 10, botname = "", Status = "Nonaktif"},
+    {nordp = 10, botname = "", Status = "Nonaktif"}
 }
 
 ShowIP = true
 ip_add = {
-    "192.168.0.1",
-    "192.168.0.2",
-    "192.168.0.3",
-    "192.168.0.4",
-    "192.168.0.5",
-    "192.168.0.6",
-    "192.168.0.7"
+    "91.143.90.14",
+    "91.143.90.138",
+    "91.143.90.139",
+    "91.143.90.163",
+    "91.143.90.164",
+    "91.143.90.165",
+    "91.143.90.166",
+    "91.143.90.167",
+    "91.143.90.168",
+    "91.143.90.169",
 }
 
-hookURL = "Hook URL Kalian"
+hookURL = "https://discord.com/api/webhooks/1034888359555911760/wd-mw2A1Exq55NE6VORAQkL9_gbPeZWS-Rc1BntkgFzgGTPoxIbJLKJV2JT-2hOUWA_H"
 
 Teks_Deskripsi = "List Nick Para Babu"
 Teks_Footer = "Golek Duit Kanggo Masa Depan"
@@ -32,4 +53,4 @@ Teks_Footer = "Golek Duit Kanggo Masa Depan"
 Emote_Offline = "<:offline:982957367392088124>"
 Emote_Online = "<:online:982957403756716052>"
 
-menit = 5 --TIAP BERAPA MENIT BOTNYA NGIRIM WEBHOOK
+menit = 2 --TIAP BERAPA MENIT BOTNYA NGIRIM WEBHOOK
