@@ -1,8 +1,8 @@
 Rdp = {
-    {nordp = 1, botname = "asepco19", Status = "Aktif"},
+    {nordp = 1, botname = "asepco19", Status = "Nonaktif"},
     {nordp = 1, botname = "asepco20", Status = "Nonaktif"},
     {nordp = 1, botname = "asepco21", Status = "Nonaktif"},
-    {nordp = 2, botname = "asepco23", Status = "Aktif"},
+    {nordp = 2, botname = "asepco23", Status = "Nonaktif"},
     {nordp = 2, botname = "asepco24", Status = "Nonaktif"},
     {nordp = 2, botname = "asepco27", Status = "Nonaktif"},
     {nordp = 3, botname = "asepco30", Status = "Nonaktif"},
